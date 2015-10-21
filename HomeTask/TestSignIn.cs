@@ -7,8 +7,8 @@ using NUnit.Framework;
 
 namespace HomeTask
 {
-    [TestClass]
-    public class TestSignIn
+    [TestFixture]
+    public class UnitTest1
     {
         IWebDriver driver;
         HomePage homePage;
@@ -17,7 +17,7 @@ namespace HomeTask
 
         private String urlHomePage = "http://www.canadiantire.ca/en.html";
  
-        [TestInitialize]
+        [SetUp]
         public void SetUp()
         {
             driver = new FirefoxDriver();
@@ -26,14 +26,15 @@ namespace HomeTask
             homePage = new HomePage(driver);
             loginPage = new LoginPage(driver);
             nyAccountPage = new MyAccountPage(driver);
+
         }
 
-        [TestCleanup]
+        [TearDown]
         public void Quit() {
             driver.Quit();
         }
 
-        [TestMethod]
+        [Test]
         public void SignIn() {
             homePage.clickSignIn();
             loginPage.fillForm();
