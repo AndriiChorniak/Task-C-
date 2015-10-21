@@ -21,8 +21,8 @@ namespace HomeTask
         public void SetUp()
         {
             driver = new FirefoxDriver();
-            driver.Navigate().GoToUrl(urlHomePage);
             driver.Manage().Window.Maximize();
+            driver.Navigate().GoToUrl(urlHomePage);
             homePage = new HomePage(driver);
             loginPage = new LoginPage(driver);
             nyAccountPage = new MyAccountPage(driver);

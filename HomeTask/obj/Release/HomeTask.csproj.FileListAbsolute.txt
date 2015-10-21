@@ -1,0 +1,13 @@
+c:\users\andrii_chorniak\documents\visual studio 2015\Projects\HomeTask\HomeTask\bin\Release\HomeTask.dll.config
+c:\users\andrii_chorniak\documents\visual studio 2015\Projects\HomeTask\HomeTask\bin\Release\HomeTask.dll
+c:\users\andrii_chorniak\documents\visual studio 2015\Projects\HomeTask\HomeTask\bin\Release\HomeTask.pdb
+c:\users\andrii_chorniak\documents\visual studio 2015\Projects\HomeTask\HomeTask\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\andrii_chorniak\documents\visual studio 2015\Projects\HomeTask\HomeTask\bin\Release\nunit.framework.dll
+c:\users\andrii_chorniak\documents\visual studio 2015\Projects\HomeTask\HomeTask\bin\Release\WebDriver.dll
+c:\users\andrii_chorniak\documents\visual studio 2015\Projects\HomeTask\HomeTask\bin\Release\WebDriver.Support.dll
+c:\users\andrii_chorniak\documents\visual studio 2015\Projects\HomeTask\HomeTask\bin\Release\nunit.framework.xml
+c:\users\andrii_chorniak\documents\visual studio 2015\Projects\HomeTask\HomeTask\bin\Release\WebDriver.xml
+c:\users\andrii_chorniak\documents\visual studio 2015\Projects\HomeTask\HomeTask\bin\Release\WebDriver.Support.xml
+c:\users\andrii_chorniak\documents\visual studio 2015\Projects\HomeTask\HomeTask\obj\Release\HomeTask.csprojResolveAssemblyReference.cache
+c:\users\andrii_chorniak\documents\visual studio 2015\Projects\HomeTask\HomeTask\obj\Release\HomeTask.dll
+c:\users\andrii_chorniak\documents\visual studio 2015\Projects\HomeTask\HomeTask\obj\Release\HomeTask.pdb
